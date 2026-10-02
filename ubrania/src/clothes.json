@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Koszulka",
+    "kategoria": "T-shirt",
+    "rozmiar": "M",
+    "kolor": "Czarny",
+    "cena": 49.99
+  },
+  {
+    "id": 2,
+    "nazwa": "Bluza",
+    "kategoria": "Bluza",
+    "rozmiar": "L",
+    "kolor": "Szary",
+    "cena": 119.99
+  },
+  {
+    "id": 3,
+    "nazwa": "Jeansy",
+    "kategoria": "Spodnie",
+    "rozmiar": "M",
+    "kolor": "Niebieski",
+    "cena": 159.99
+  },
+  {
+    "id": 4,
+    "nazwa": "Kurtka",
+    "kategoria": "Kurtka",
+    "rozmiar": "L",
+    "kolor": "Czarny",
+    "cena": 249.99
+  },
+  {
+    "id": 5,
+    "nazwa": "Sukienka",
+    "kategoria": "Sukienka",
+    "rozmiar": "S",
+    "kolor": "Czerwony",
+    "cena": 139.99
+  },
+  {
+    "id": 6,
+    "nazwa": "Spodenki",
+    "kategoria": "Spodenki",
+    "rozmiar": "M",
+    "kolor": "Biały",
+    "cena": 79.99
+  }
+]
